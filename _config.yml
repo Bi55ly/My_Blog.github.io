@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Leo # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: play with some commands # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: github_username # change to your github username
+  username: Bi55ly # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -93,10 +93,10 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn:
+cdn: "https://firebasestorage.googleapis.com"
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "v0/b/booming-edge-387113.appspot.com/o/Did%20you%20like%20the%20art%20and%20want%20it%20in%20higher%20resolution_%20Follow%20the%20link%20and%20check%20out%20the%20album%20-%20https___t_me_arttach___.jpeg?alt=media&token=3d41a931-a107-4ef0-adb9-4f0005be7ae2"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
